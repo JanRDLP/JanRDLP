@@ -39,13 +39,7 @@ I enjoy learning and applying new technologies, exploring digital tools that imp
 | **Engineering & Automation** | AutoCAD 2D/3D, AutoLISP, Microsoft Office, Technical documentation, Lean Six Sigma Yellow Belt, Cloud |
 | **Soft Skills** | English B2, Teamwork, Cross-functional collaboration, Self-driven learning, Process organization, Attention to detail, Quality focus |
 
-<!-- Connect with me -->
-<!--h2 without bottom border-->
-<div id="user-content-toc">
-  <ul align="left">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
-  </ul>
-</div>
+## 🤝 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/
 

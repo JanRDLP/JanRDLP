@@ -1,5 +1,5 @@
 <!-- My name -->
-## <h1 align="center">Hi there, my name is Jan Rivera 👋</h1>
+<h1 align="center">Hi there, my name is Jan Rivera 👋</h1>
 
 <!-- About me -->
 ## 👨🏻‍💻 About me

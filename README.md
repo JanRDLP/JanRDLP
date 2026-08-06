@@ -47,6 +47,6 @@ I enjoy learning and applying new technologies, exploring digital tools that imp
   </ul>
 </div>
 
-LinkedIn: /in/jan-horacio-rivera-de-la-puente/
+LinkedIn: https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/
 
 Email: jan_horacio@hotmail.com

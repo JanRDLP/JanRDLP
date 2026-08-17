@@ -38,7 +38,7 @@ I am passionate about learning and applying new technologies, exploring digital 
 | --- | --- |
 | **QA & Testing** | Test case design, Manual/Automated testing, Bug tracking, Requirements analysis and documentation, Queries and data validation, API testing, Version control |
 | **QA Concepts** | Functional & regression testing, Checklists, SQL data validation, API testing |
-| **Engineering & Automation** | AutoCAD 2D/3D, AutoLISP, Microsoft Office, Technical documentation, Lean Six Sigma Yellow Belt, Cloud |
+| **Engineering & Automation** | Project coordination, AutoCAD 2D/3D, AutoLISP, Microsoft Office, Technical documentation, Lean Six Sigma Yellow Belt, Cloud |
 | **Soft Skills** | English B2, Teamwork, Cross-functional collaboration, Self-driven learning, Process organization, Attention to detail, Quality focus |
 
 ## 🤝 Connect With Me

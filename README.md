@@ -4,18 +4,20 @@
 <!-- About me -->
 ## 👨🏻‍💻 About me
  
-I am a QA Engineer, certified as a QA Analyst, with a focus on manual and automated testing for web and mobile applications. 
-I have experience designing test cases, executing functional tests, reporting bugs in Jira, and analyzing requirements using tools like Python, Selenium, Pytest, and SQL.
+I am a QA Engineer, certified as a QA Analyst, specializing in manual and automated testing for web and mobile applications.  
+I have executed over 380 tests across manual, API, selenium, and mobile environments, reporting more than 100 defects in Jira. My experience includes designing flowcharts, test cases, equivalence classes, and checklists, as well as conducting requirement analysis to ensure system functionality, data architecture consistency, and user value delivery. I apply tools such as Python, Selenium, Pytest, and SQL to validate data and automate critical flows.
 
-I bring the mindset of an industrial engineer into software testing. My background in Lean methodology, process auditing, and project coordination allows me to approach QA with a broader perspective: ensuring not only that software works, but that processes are efficient, scalable, and aligned with continuous improvement principles.
+I bring an industrial engineering mindset into software testing. My background in Lean methodology, process auditing, and project coordination enables me to ensure not only that software works, but that processes are efficient, scalable, and aligned with continuous improvement principles.
 
-I focus on testing software and improving the processes behind it. My industrial engineering background means I can:
+I focus on both testing software and improving the workflows behind it, which allows me to:
 
-- Spot inefficiencies in workflows and propose Lean solutions.
-- Coordinate projects with both technical and business stakeholders.
+- Identify inefficiencies and propose Lean-driven solutions.
+
+- Coordinate projects with technical and business stakeholders.
+
 - Audit processes to ensure compliance and continuous improvement.
 
-I enjoy learning and applying new technologies, exploring digital tools that improve efficiency and innovation. My goal is to combine technical precision with analytical thinking to deliver reliable solutions and great user experiences.
+I am passionate about learning and applying new technologies, exploring digital tools that enhance efficiency and innovation. My goal is to combine technical precision with analytical thinking to deliver reliable solutions and outstanding user experiences.
 
 ## 🔨 Skills
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)

@@ -41,6 +41,19 @@ I am passionate about learning and applying new technologies, exploring digital 
 | **Engineering & Automation** | Project coordination, AutoCAD 2D/3D, AutoLISP, Microsoft Office, Technical documentation, Lean Six Sigma Yellow Belt, Cloud |
 | **Soft Skills** | English B2, Teamwork, Cross-functional collaboration, Self-driven learning, Process organization, Attention to detail, Quality focus |
 
+---
+
+## 🌟 Featured Projects
+
+### 🔹 AutoLISP Routines
+- [**DN**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/dn.md) → Automates pipe drawing with Nominal Diameter (DN) notation.  
+- [**ExportarEtiquetas**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/exportar_etiqueta.md) → Exports all component labels into a structured CSV/Excel file.  
+- [**LayerControl**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/layer_control.md) → Provides a single panel to control layer visibility with grouped checkboxes.  
+
+### 🔹 QA Automation
+- [**Saucedemo Flows**](https://github.com/JanRDLP/saucedemo-flows-automation) → End-to-end automated tests for Saucedemo.com using Python, Selenium, and Pytest.
+- [**Urban Routes**](https://github.com/JanRDLP/qa-project-Urban-Routes-es)
+
 ## 🤝 Connect With Me
 
 LinkedIn: https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/

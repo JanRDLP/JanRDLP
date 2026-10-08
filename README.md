@@ -56,7 +56,7 @@ I am passionate about learning and applying new technologies, exploring digital 
 - [**Urban Routes**](https://github.com/JanRDLP/qa-project-Urban-Routes-es)
 
 ### 🔹 Web App Development
-- [**Nomad Pizza**](https://github.com/JanRDLP/nomad-pizza)
+- [**Nomad Pizza**](https://github.com/JanRDLP/nomad-pizza) → Private
 
 ## 🤝 Connect With Me
 

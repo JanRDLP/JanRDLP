@@ -51,8 +51,12 @@ I am passionate about learning and applying new technologies, exploring digital 
 - [**LayerControl**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/layer_control.md) → Provides a single panel to control layer visibility with grouped checkboxes.  
 
 ### 🔹 QA Automation
+- [**Nomad Pizza Flows**](https://github.com/JanRDLP/nomad-pizza-order-flow-automation) → Order flow automated for web app Nomad Pizza using Python, Selenium and Pytest.
 - [**Saucedemo Flows**](https://github.com/JanRDLP/saucedemo-flows-automation) → End-to-end automated tests for Saucedemo.com using Python, Selenium, and Pytest.
 - [**Urban Routes**](https://github.com/JanRDLP/qa-project-Urban-Routes-es)
+
+### 🔹 Web App Development
+- [**Nomad Pizza**](https://github.com/JanRDLP/nomad-pizza)
 
 ## 🤝 Connect With Me
 

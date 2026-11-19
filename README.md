@@ -46,7 +46,7 @@ I am passionate about learning and applying new technologies, exploring digital 
 ## 🌟 Featured Projects
 
 ### 🔹 AutoLISP Routines
-- [**DN**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/dn.md) → Automates pipe drawing with Nominal Diameter (DN) notation.  
+- [**Piping Component Generation**](https://github.com/JanRDLP/autolisp-routines/tree/main/piping-component-generation) → Configures and inserts labeled 3D piping components in AutoCAD with the `CREARPIEZA` command.  
 - [**ExportarEtiquetas**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/exportar_etiqueta.md) → Exports all component labels into a structured CSV/Excel file.  
 - [**LayerControl**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/layer_control.md) → Provides a single panel to control layer visibility with grouped checkboxes.  
 

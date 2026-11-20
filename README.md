@@ -1,40 +1,24 @@
-<h1 align="center">Jan Horacio Rivera De la Puente</h1>
+# Jan Horacio Rivera De la Puente
 
-<p align="center"><strong>QA Engineer</strong></p>
+**QA Engineer · Web, mobile & API testing**
 
-<p align="center">I design tests for web, mobile, and APIs, automate critical user flows, and use SQL to verify business rules. My industrial engineering background informs how I analyze requirements and document defects.</p>
+I automate critical user flows and use SQL to verify business rules. My industrial engineering background shapes how I analyze requirements and document defects.
 
-<p align="center">
-  <a href="https://github.com/JanRDLP/qa-portfolio">QA portfolio</a> ·
-  <a href="https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/">LinkedIn</a>
-</p>
+[QA portfolio](https://github.com/JanRDLP/qa-portfolio) · [LinkedIn](https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/)
 
-<table>
-  <tr>
-    <th scope="col" align="left"><a href="https://github.com/JanRDLP/nomad-pizza-order-flow-automation">Nomad Pizza · Order flow automation</a></th>
-  </tr>
-  <tr>
-    <td>
-      <p><strong>Featured case study</strong></p>
-      <p>I built the customer ordering interface for a local business and automated checks for menu pricing, cart totals, and order confirmation. The suite creates test orders in the Firebase Emulator.</p>
-      <p>Test case <code>NO-007</code> links to a documented finding on takeout promotion and price synchronization.</p>
-      <p><a href="https://github.com/JanRDLP/nomad-pizza-order-flow-automation">View test suite</a> · <a href="https://github.com/JanRDLP/nomad-pizza-order-flow-automation/blob/main/docs/defects/NP-1.md">Read defect report NP-1</a></p>
-    </td>
-  </tr>
-</table>
+> [!NOTE]
+> **Nomad Pizza · Order flow automation**
+>
+> I built the ordering interface for a local business and automated menu pricing, cart totals, and order confirmation. The suite uses the Firebase Emulator to create test orders.
+>
+> [View test suite](https://github.com/JanRDLP/nomad-pizza-order-flow-automation) · [See how test case NO-007 led to defect report NP-1](https://github.com/JanRDLP/nomad-pizza-order-flow-automation/blob/main/docs/defects/NP-1.md)
 
 ## Selected projects
 
-<table>
-  <tr>
-    <td><a href="https://github.com/JanRDLP/web-mobile-api-testing"><strong>Urban Scooter</strong></a><br>Web, Android courier, and API testing.</td>
-    <td><a href="https://github.com/JanRDLP/database-logs-validation"><strong>Urban Routes · SQL and logs</strong></a><br>Fleet availability, trip distribution, and fare rules.</td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/JanRDLP/saucedemo-flows-automation"><strong>SauceDemo</strong></a><br>Login, cart, and checkout with Selenium and pytest.</td>
-    <td><a href="https://github.com/JanRDLP/autolisp-routines"><strong>AutoLISP</strong></a><br>3D piping components, label export, and layer control.</td>
-  </tr>
-</table>
+- **[Urban Scooter](https://github.com/JanRDLP/web-mobile-api-testing)** · Functional testing across web, Android, and API.
+- **[Urban Routes](https://github.com/JanRDLP/database-logs-validation)** · SQL and log validation for fleet availability, trips, and fare rules.
+- **[SauceDemo](https://github.com/JanRDLP/saucedemo-flows-automation)** · Login, cart, and checkout automation with Selenium and pytest.
+- **[AutoLISP](https://github.com/JanRDLP/autolisp-routines)** · AutoCAD routines for piping components, label export, and layer control.
 
 <details>
 <summary>More projects</summary>

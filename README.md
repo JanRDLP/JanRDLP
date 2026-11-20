@@ -1,65 +1,54 @@
-<!-- My name -->
-<h1 align="center">Hi there, my name is Jan Rivera 👋</h1>
+# Jan Rivera
 
-<!-- About me -->
-## 👨🏻‍💻 About me
- 
-I am a QA Engineer, certified as a QA Analyst, specializing in manual and automated testing for web and mobile applications.  
-I have executed over 380 tests across manual, API, selenium, and mobile environments, reporting more than 100 defects in Jira. My experience includes designing flowcharts, test cases, equivalence classes, and checklists, as well as conducting requirement analysis to ensure system functionality, data architecture consistency, and user value delivery. I apply tools such as Python, Selenium, Pytest, and SQL to validate data and automate critical flows.
+**QA Automation · AutoCAD & AutoLISP**
 
-I bring an industrial engineering mindset into software testing. My background in Lean methodology, process auditing, and project coordination enables me to ensure not only that software works, but that processes are efficient, scalable, and aligned with continuous improvement principles.
+[QA portfolio](https://github.com/JanRDLP/qa-portfolio) · [CAD portfolio](https://github.com/JanRDLP/portfolio-autocad) · [LinkedIn](https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/)
 
-I focus on both testing software and improving the workflows behind it, which allows me to:
+## About me
 
-- Identify inefficiencies and propose Lean-driven solutions.
+I’m a QA Engineer and certified QA Analyst with a background in industrial engineering. I test web and mobile applications, validate APIs, and use SQL to check how business rules are reflected in the data.
 
-- Coordinate projects with technical and business stakeholders.
+I like to follow a user action through the whole workflow. In Nomad Pizza, for example, changing an ingredient should update the price on the menu, in the cart, and in the order summary. I turn checks like these into repeatable tests with Python, Selenium, and pytest, and document defects so others can reproduce them.
 
-- Audit processes to ensure compliance and continuous improvement.
+My experience in process auditing and Lean also shapes how I work in AutoCAD. For industrial piping projects, I write AutoLISP routines to generate labeled 3D components, export labels for inventory, and manage layers. I look for repetitive steps where automation can save work and reduce the chance of errors.
 
-I am passionate about learning and applying new technologies, exploring digital tools that enhance efficiency and innovation. My goal is to combine technical precision with analytical thinking to deliver reliable solutions and outstanding user experiences.
+## QA automation
 
-## 🔨 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=whit)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Office-DC3E15?logo=microsoft-office&logoColor=white)
-![Six Sigma Yellow Belt](https://img.shields.io/badge/Six%20Sigma-Yellow%20Belt-F7E600?logo=leanpub&logoColor=black)
+**Nomad Pizza** · I built the customer ordering interface for a local business and automated checks for menu pricing, cart totals, and order confirmation.
 
-| Area | Competencies |
-| --- | --- |
-| **QA & Testing** | Test case design, Manual/Automated testing, Bug tracking, Requirements analysis and documentation, Queries and data validation, API testing, Version control |
-| **QA Concepts** | Functional & regression testing, Checklists, SQL data validation, API testing |
-| **Engineering & Automation** | Project coordination, AutoCAD 2D/3D, AutoLISP, Microsoft Office, Technical documentation, Lean Six Sigma Yellow Belt, Cloud |
-| **Soft Skills** | English B2, Teamwork, Cross-functional collaboration, Self-driven learning, Process organization, Attention to detail, Quality focus |
+[View Selenium test suite](https://github.com/JanRDLP/nomad-pizza-order-flow-automation) · [Read defect report NP-1](https://github.com/JanRDLP/nomad-pizza-order-flow-automation/blob/main/docs/defects/NP-1.md)
 
----
+- [SauceDemo](https://github.com/JanRDLP/saucedemo-flows-automation) · Automated login, cart, and checkout.
+- [Urban Grocers](https://github.com/JanRDLP/qa-project-Urban-Grocers-app-es) · API boundary tests for product kit names.
 
-## 🌟 Featured Projects
+## AutoCAD & AutoLISP
 
-### 🔹 AutoLISP Routines
-- [**Piping Component Generation**](https://github.com/JanRDLP/autolisp-routines/tree/main/piping-component-generation) → Configures and inserts labeled 3D piping components in AutoCAD with the `CREARPIEZA` command.  
-- [**ExportarEtiquetas**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/exportar_etiqueta.md) → Exports all component labels into a structured CSV/Excel file.  
-- [**LayerControl**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/layer_control.md) → Provides a single panel to control layer visibility with grouped checkboxes.  
+**Piping Component Generation** · I built the `CREARPIEZA` command to configure and insert labeled 3D piping components in AutoCAD.
 
-### 🔹 QA Automation
-- [**Nomad Pizza Flows**](https://github.com/JanRDLP/nomad-pizza-order-flow-automation) → Order flow automated for web app Nomad Pizza using Python, Selenium and Pytest.
-- [**Saucedemo Flows**](https://github.com/JanRDLP/saucedemo-flows-automation) → End-to-end automated tests for Saucedemo.com using Python, Selenium, and Pytest.
-- [**Urban Routes**](https://github.com/JanRDLP/qa-project-Urban-Routes-es)
+[View AutoLISP source](https://github.com/JanRDLP/autolisp-routines/tree/main/piping-component-generation) · [Read the case study](https://github.com/JanRDLP/portfolio-autocad/blob/main/projects/piping-component-generation.md)
 
-### 🔹 Web App Development
-- [**Nomad Pizza**](https://github.com/JanRDLP/nomad-pizza) → Private
+- [Label export](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/exportar_etiqueta.md) · Export component labels into a structured file.
+- [Layer control](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/layer_control.md) · Manage piping layer visibility from one panel.
 
-## 🤝 Connect With Me
+<details>
+<summary>More QA projects</summary>
 
-LinkedIn: https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/
+- [Urban Scooter](https://github.com/JanRDLP/web-mobile-api-testing) · Web, Android, and API test reports.
+- [Urban Routes](https://github.com/JanRDLP/database-logs-validation) · SQL and log validation.
+- [Urban Routes](https://github.com/JanRDLP/qa-project-Urban-Routes-es) · Booking automation.
+- [The Internet](https://github.com/JanRDLP/the-internet) · Authentication tests.
 
-Email: jan_horacio@hotmail.com
+</details>
+
+## Tools
+
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-26752c?style=flat&logo=selenium&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-076080?style=flat&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-495464?style=flat)
+![Postman](https://img.shields.io/badge/Postman-ad401b?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-35627e?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b63827?style=flat&logo=git&logoColor=white)
+![AutoCAD](https://img.shields.io/badge/AutoCAD-a22239?style=flat&logo=autodesk&logoColor=white)
+![AutoLISP](https://img.shields.io/badge/AutoLISP-594584?style=flat)

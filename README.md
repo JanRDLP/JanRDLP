@@ -1,65 +1,58 @@
-<!-- My name -->
-<h1 align="center">Hi there, my name is Jan Rivera 👋</h1>
+<h1 align="center">Jan Horacio Rivera De la Puente</h1>
 
-<!-- About me -->
-## 👨🏻‍💻 About me
- 
-I am a QA Engineer, certified as a QA Analyst, specializing in manual and automated testing for web and mobile applications.  
-I have executed over 380 tests across manual, API, selenium, and mobile environments, reporting more than 100 defects in Jira. My experience includes designing flowcharts, test cases, equivalence classes, and checklists, as well as conducting requirement analysis to ensure system functionality, data architecture consistency, and user value delivery. I apply tools such as Python, Selenium, Pytest, and SQL to validate data and automate critical flows.
+<p align="center"><strong>QA Engineer</strong></p>
 
-I bring an industrial engineering mindset into software testing. My background in Lean methodology, process auditing, and project coordination enables me to ensure not only that software works, but that processes are efficient, scalable, and aligned with continuous improvement principles.
+<p align="center">I design tests for web, mobile, and APIs, automate critical user flows, and use SQL to verify business rules. My industrial engineering background informs how I analyze requirements and document defects.</p>
 
-I focus on both testing software and improving the workflows behind it, which allows me to:
+<p align="center">
+  <a href="https://github.com/JanRDLP/qa-portfolio">QA portfolio</a> ·
+  <a href="https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/">LinkedIn</a>
+</p>
 
-- Identify inefficiencies and propose Lean-driven solutions.
+<table>
+  <tr>
+    <th scope="col" align="left"><a href="https://github.com/JanRDLP/nomad-pizza-order-flow-automation">Nomad Pizza · Order flow automation</a></th>
+  </tr>
+  <tr>
+    <td>
+      <p><strong>Featured case study</strong></p>
+      <p>I built the customer ordering interface for a local business and automated checks for menu pricing, cart totals, and order confirmation. The suite creates test orders in the Firebase Emulator.</p>
+      <p>Test case <code>NO-007</code> links to a documented finding on takeout promotion and price synchronization.</p>
+      <p><a href="https://github.com/JanRDLP/nomad-pizza-order-flow-automation">View test suite</a> · <a href="https://github.com/JanRDLP/nomad-pizza-order-flow-automation/blob/main/docs/defects/NP-1.md">Read defect report NP-1</a></p>
+    </td>
+  </tr>
+</table>
 
-- Coordinate projects with technical and business stakeholders.
+## Selected projects
 
-- Audit processes to ensure compliance and continuous improvement.
+<table>
+  <tr>
+    <td><a href="https://github.com/JanRDLP/web-mobile-api-testing"><strong>Urban Scooter</strong></a><br>Web, Android courier, and API testing.</td>
+    <td><a href="https://github.com/JanRDLP/database-logs-validation"><strong>Urban Routes · SQL and logs</strong></a><br>Fleet availability, trip distribution, and fare rules.</td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/JanRDLP/saucedemo-flows-automation"><strong>SauceDemo</strong></a><br>Login, cart, and checkout with Selenium and pytest.</td>
+    <td><a href="https://github.com/JanRDLP/autolisp-routines"><strong>AutoLISP</strong></a><br>3D piping components, label export, and layer control.</td>
+  </tr>
+</table>
 
-I am passionate about learning and applying new technologies, exploring digital tools that enhance efficiency and innovation. My goal is to combine technical precision with analytical thinking to deliver reliable solutions and outstanding user experiences.
+<details>
+<summary>More projects</summary>
 
-## 🔨 Skills
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
-![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?logo=jira&logoColor=whit)
-![SQL](https://img.shields.io/badge/SQL-336791?logo=postgresql&logoColor=white)
-![Cypress](https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?logo=autodesk&logoColor=white)
-![Google Drive](https://img.shields.io/badge/Google%20Drive-4285F4?logo=googledrive&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Office-DC3E15?logo=microsoft-office&logoColor=white)
-![Six Sigma Yellow Belt](https://img.shields.io/badge/Six%20Sigma-Yellow%20Belt-F7E600?logo=leanpub&logoColor=black)
+- [Urban Grocers](https://github.com/JanRDLP/qa-project-Urban-Grocers-app-es) · API boundary tests for product kit names
+- [Urban Routes](https://github.com/JanRDLP/qa-project-Urban-Routes-es) · Web booking automation
+- [The Internet](https://github.com/JanRDLP/the-internet) · Positive and negative authentication tests
+- [AutoCAD portfolio](https://github.com/JanRDLP/portfolio-autocad) · Industrial case studies and 3D viewers
 
-| Area | Competencies |
-| --- | --- |
-| **QA & Testing** | Test case design, Manual/Automated testing, Bug tracking, Requirements analysis and documentation, Queries and data validation, API testing, Version control |
-| **QA Concepts** | Functional & regression testing, Checklists, SQL data validation, API testing |
-| **Engineering & Automation** | Project coordination, AutoCAD 2D/3D, AutoLISP, Microsoft Office, Technical documentation, Lean Six Sigma Yellow Belt, Cloud |
-| **Soft Skills** | English B2, Teamwork, Cross-functional collaboration, Self-driven learning, Process organization, Attention to detail, Quality focus |
+</details>
 
----
+## Tools
 
-## 🌟 Featured Projects
-
-### 🔹 AutoLISP Routines
-- [**Piping Component Generation**](https://github.com/JanRDLP/autolisp-routines/tree/main/piping-component-generation) → Configures and inserts labeled 3D piping components in AutoCAD with the `CREARPIEZA` command.  
-- [**ExportarEtiquetas**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/exportar_etiqueta.md) → Exports all component labels into a structured CSV/Excel file.  
-- [**LayerControl**](https://github.com/JanRDLP/autolisp-routines/blob/main/docs/layer_control.md) → Provides a single panel to control layer visibility with grouped checkboxes.  
-
-### 🔹 QA Automation
-- [**Nomad Pizza Flows**](https://github.com/JanRDLP/nomad-pizza-order-flow-automation) → Order flow automated for web app Nomad Pizza using Python, Selenium and Pytest.
-- [**Saucedemo Flows**](https://github.com/JanRDLP/saucedemo-flows-automation) → End-to-end automated tests for Saucedemo.com using Python, Selenium, and Pytest.
-- [**Urban Routes**](https://github.com/JanRDLP/qa-project-Urban-Routes-es)
-
-### 🔹 Web App Development
-- [**Nomad Pizza**](https://github.com/JanRDLP/nomad-pizza) → Private
-
-## 🤝 Connect With Me
-
-LinkedIn: https://www.linkedin.com/in/jan-horacio-rivera-de-la-puente/
-
-Email: jan_horacio@hotmail.com
+![Python](https://img.shields.io/badge/Python-306998?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-26752c?style=flat&logo=selenium&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-076080?style=flat&logo=pytest&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-495464?style=flat)
+![Postman](https://img.shields.io/badge/Postman-ad401b?style=flat&logo=postman&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-35627e?style=flat)
+![Jira](https://img.shields.io/badge/Jira-0052cc?style=flat&logo=jira&logoColor=white)
+![Git](https://img.shields.io/badge/Git-b63827?style=flat&logo=git&logoColor=white)
